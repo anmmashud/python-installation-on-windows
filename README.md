@@ -56,8 +56,8 @@ exit()
 
 Here are my screenshots. Don’t worry about the terminal color; you can customize it as well.
 
-https://anmmashud.github.io/assets/img/python_install_win_ss1-1400.webp
-https://anmmashud.github.io/assets/img/python_install_win_ss2-1400.webp
+python_install_win_ss1.png
+python_install_win_ss2.png
 
 #### **Conclusion**
 
